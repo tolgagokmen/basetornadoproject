@@ -14,7 +14,7 @@ Each Project should contain the respective details:
 
 	Tornado : Python web framework and asynchronous networking library
 	MongoDB : Database Server
-	Pymongo : Database Connector ( For creating connectiong between MongoDB and Tornado )
+	Motor   : Database Connector ( For creating async connectiong between MongoDB and Tornado )
 
 
 ## Set up environment :
