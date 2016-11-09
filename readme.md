@@ -35,16 +35,16 @@ Each Project should contain the respective details:
 	1) Install Tornado ( Web Framework )
 		`pip install tornado`
 
-	2) Install MongoDB
-		`sudo brew install -y mongodb`
-
-	3) Install Pymongo for database connector
+	2) Install Pymongo for database connector
 		`pip install pymongo'
 
-    4) Create or update requirements.txt
+    3) Create or update requirements.txt
         'pip freeze --local > requirements.txt'
 
 ## Run :
+    Install MongoDB ( If you don't have already )
+        `sudo brew install -y mongodb`
+	
 	Run MongoDB
 		1) Start MongoDB
 			`sudo service mongod start`
